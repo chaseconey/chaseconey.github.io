@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "chaseconey",
-    "repositoryName": "chaseconey.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"chaseconey","repositoryName":"chaseconey.github.io","branch":"master","delay":"1500"},"site":{"url":"https://chaseconey.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//chaseconey.github.io/themes/Casper"}}
